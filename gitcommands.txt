@@ -15,3 +15,30 @@ and the repository exists.
 
 SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
 
+git init
+git clone
+git add origin "https://github.com/jayaku/filename.git" --see this in clone or download link
+git pull
+git push
+git status
+git commit -m "added new change"
+git commit -a -m "adding 3 files"
+git add -A
+git log
+git branch firstbranch
+git checkout firstbranch
+git add edu4.txt
+git checkout master
+git stash
+git merge firstbranch
+git rebase master
+git checkout master
+git rebase firstbranch
+ssh-keygen
+ssh -T git@github.com
+git push origin firstbranch
+git push origin master
+git log
+git checkout 8digits revert.txt
+
+https://www.edureka.co/blog/git-tutorial/?utm_source=blog&utm_medium=left-menu&utm_campaign=devops-tutorial
